@@ -1,0 +1,17 @@
+# First-Task Overview
+
+#student information
+Full Name: Sreenidhi reddy kalakonda
+700#     : 700771953
+
+#Question 1 : Full Name & Alternate String
+----This program combines your first and last name into a full name and then prints every other character from that name.It uses string formatting for the full name and string slicing to get the alternate characters.
+
+
+#Question 2 : Word Count from File
+-----This program reads a file counts how many times each word appears and saves the result in another file and it uses Pythons Counter to count the words and then writes the count in a new file.
+
+
+#Question 3 :Height Conversion (Inches to Centimeters)
+-----The program converts heights from inches to centimeters using two methods a nested loop and list comprehension.
+It multiplies the height in inches by 2.54 and rounds the result to two decimal places.
